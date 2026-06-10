@@ -1,5 +1,5 @@
 # web-1
-Fitmov website with Html, CSS, JavaScript, and TailwindCSS with all device responsiveness
+Speedx website with Html, CSS, JavaScript, and TailwindCSS with all device responsiveness
 
 <img width="1280" height="678" alt="Screen Shot 2026-04-20 at 5 15 19 PM" src="https://github.com/user-attachments/assets/2e823fce-49d1-48fc-b0bb-0563be64687c" />
 
